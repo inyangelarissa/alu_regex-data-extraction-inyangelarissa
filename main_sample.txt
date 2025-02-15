@@ -1,8 +1,8 @@
-Emails: user@example.com, firstname.lastname@company.co.rw
-URLs: https://www.sample.com, http://subdomain.example.org/page
-Phone Numbers: (123) 789-6899, 250-768-5467, 253-789-7869
-Credit Card Numbers: 6498-7554-3589-9088, 8543-2807-6543-2346,6887-5643-4657-0689
+Emails: user@example.com, firstname.lastname@company.co.uk
+URLs: https://www.example.com, http://subdomain.example.org/page
+Phone Numbers: (123) 456-7890, 123-456-7890, 123.456.7890
+Credit Card Numbers: 1234 5678 9012 3456, 1234-5678-9012-3456
 Times: 14:30, 2:30 PM
-HTML Tags: <p>, <div class="intro">, <img src="image.jpg" alt="description">
-Hashtags: #sample, #ThisIsAHashtag
-Currency: $19.99, $1,234.56,$67
+HTML Tags: <p>, <div class="example">, <img src="image.jpg" alt="description">
+Hashtags: #example, #ThisIsAHashtag
+Currency: $19.99, $1,234.56
